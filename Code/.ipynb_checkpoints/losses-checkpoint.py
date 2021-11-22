@@ -56,7 +56,7 @@ class NTXent(torch.nn.Module):
     def __init__(self, 
                  batch_size, 
                  temperature=0.5,
-                 device='gpu'):
+                 device='cuda'):
         super().__init__()
         self.batch_size = batch_size
         self.register_buffer("temperature", torch.tensor(temperature).to(device))
