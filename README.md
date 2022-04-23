@@ -6,4 +6,6 @@
      style="float: left; margin-right: 10px;" />
 
 Section 1: https://shairozsohail.medium.com/contrastive-representation-learning-a-comprehensive-guide-part-1-foundations-90c1944dbd1e
+
+
 Section 2: https://shairozsohail.medium.com/contrastive-representation-learning-a-comprehensive-guide-part-2-scoring-representations-bedd28eddb30
